@@ -1,19 +1,22 @@
 # Customer-Dataset-Project
 
 ## Project Title: Customer Data Analysis 
--[Project Overview for sales data](#project-overview-for-sale-data)
 
--[Data source](#data-source)
+## Project Outlines
 
--[Tool used](#tool-used)
+[Project Overview for sales data](#project-overview-for-sale-data)
 
--[Data cleaning and Preparation](#data-cleaning-and-preparation)
+[Data source](#data-source)
 
--[Exploratory Data Analysis](#exploratory-data-analysis)
+[Tool used](#tool-used)
 
--[Data Analysis](#data-analysis)
+[Data cleaning and Preparation](#data-cleaning-and-preparation)
 
--[Data Visualization](#data-visualization)
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
+[Data Analysis](#data-analysis)
+
+[Data Visualization](#data-visualization)
 
 ### Project Overview for sales data
 The purpose of this documentation is to analyze the customer data set for a subscription service by calculating some metric such as the subscription duration, the most popular subscription type, the average subscriptin duration etc. To also display some visuals with the use of pivot table and power Bi visulisation.
