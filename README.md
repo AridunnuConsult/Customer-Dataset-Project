@@ -1,6 +1,7 @@
 # Customer-Dataset-Project
 
 ## Project Title: Customer Data Analysis 
+[Project Overview for sales data](#Project-Overview-for-sale-data)
 
 ### Project Overview for sales data
 The purpose of this documentation is to analyze the customer data set for a subscription service by calculating some metric such as the subscription duration, the most popular subscription type, the average subscriptin duration etc. To also display some visuals with the use of pivot table and power Bi visulisation.
