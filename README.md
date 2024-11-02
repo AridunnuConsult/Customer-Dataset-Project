@@ -82,14 +82,13 @@ SELECT SUBSCRIPTION TYPE, SUM(REVENUE) AS TOTAL_REVENUE FROM [DBO].[LITA CUSTOME
 GROUP BY SUBSCRIPTION TYPE
 ORDER BY DESC
 
----
 ```
 
 ### Data Visualization
 This preview some of the analyses done so far
   - Excel calculation for the Customer Data
 
-    ![Calculation for customer data](https://github.com/user-attachments/assets/e33b41b0-520a-401b-be20-c6c5693ab38e)
+![Calculation for customer data](https://github.com/user-attachments/assets/e33b41b0-520a-401b-be20-c6c5693ab38e)
 
 
 ![Pivot table for Customer data](https://github.com/user-attachments/assets/ddf51c19-5256-4eb1-9364-4b780d6e06d7)
