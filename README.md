@@ -2,6 +2,12 @@
 
 ## Project Title: Customer Data Analysis 
 [Project Overview for sales data](#Project-Overview-for-sale-data)
+[Data source](#Data-source)
+[Tool used](#Tool-used)
+[Data cleaning and Preparation](#Data-cleaning-and-Preparation)
+[Exploratory Data Analysis](#Exploratory-Data-Analysis)
+[Data Analysis](#Data-Analysis)
+[Data Visualization](#Exploratory-Data-Visualization)
 
 ### Project Overview for sales data
 The purpose of this documentation is to analyze the customer data set for a subscription service by calculating some metric such as the subscription duration, the most popular subscription type, the average subscriptin duration etc. To also display some visuals with the use of pivot table and power Bi visulisation.
@@ -31,7 +37,8 @@ I provide answer to some questions on the dataset such as
 - The most popular subscription type
 - Total Number of customers from each region
 - Total revenue for each subscription type etc
-Data analysis
+
+### Data analysis
 These are some of the code and queries used to achieve our analysis
 ```Excel
 =AVG(I5:133791)
