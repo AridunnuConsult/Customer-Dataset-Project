@@ -58,3 +58,33 @@ These are some of the code and queries used to achieve our analysis
 ```SQL
 
 ```
+
+### Data Visualization
+This preview some of the analyses done so far
+  - Excel calculation for the Customer Data
+
+    ![Calculation for customer data](https://github.com/user-attachments/assets/e33b41b0-520a-401b-be20-c6c5693ab38e)
+
+
+![Pivot table for Customer data](https://github.com/user-attachments/assets/ddf51c19-5256-4eb1-9364-4b780d6e06d7)
+
+
+![Total number of customer per region](https://github.com/user-attachments/assets/e71cf2db-5143-49af-a5be-7f0bba264d3a)
+
+
+![The Most popular subscription type](https://github.com/user-attachments/assets/857147ab-2d56-4d05-a269-90c758b12907)
+
+
+![Customer who canceled subscription within 6months](https://github.com/user-attachments/assets/530bf0db-ab20-4496-8b4d-950a648e18b3)
+
+
+![Avg  Subscrip for all customer](https://github.com/user-attachments/assets/29499161-520c-413a-a26c-91ac3c7636cb)
+
+
+![Total Revenue for Subscription Type](https://github.com/user-attachments/assets/38ca70be-d5dd-433c-a7db-62672d654f6d)
+
+
+![Top 3 region  by subscrip  cancellation](https://github.com/user-attachments/assets/b8ae2aa3-9cf4-4f7b-91a9-4d080c739c87)
+
+
+![Active   Canceled subscription](https://github.com/user-attachments/assets/851606cd-f892-4bc4-bf0e-7c7471d2f2ee)
