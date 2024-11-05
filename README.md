@@ -114,6 +114,6 @@ This preview some of the analyses done so far
 
 ![Active   Canceled subscription](https://github.com/user-attachments/assets/851606cd-f892-4bc4-bf0e-7c7471d2f2ee)
 
-Thesee are some of the visuals done on Power BI for the analysis of subscription pattern of  the customers
+Thesee are some of the visuals done on Power BI for the analysis of subscription of  the customers
 
 ![CUSTOMER DASHBOARD](https://github.com/user-attachments/assets/dd322725-5330-4bbc-b587-35b5648c5396)
